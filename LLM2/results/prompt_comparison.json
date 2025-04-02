@@ -1,0 +1,77 @@
+{
+  "basic": {
+    "metrics": {
+      "accuracy": NaN,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "efficiency": {
+      "avg_tokens_per_title": 0,
+      "avg_processing_time": 0,
+      "total_tokens": 0,
+      "total_time": 0,
+      "estimated_cost": 0.0
+    }
+  },
+  "detailed": {
+    "metrics": {
+      "accuracy": NaN,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "efficiency": {
+      "avg_tokens_per_title": 0,
+      "avg_processing_time": 0,
+      "total_tokens": 0,
+      "total_time": 0,
+      "estimated_cost": 0.0
+    }
+  },
+  "efficient": {
+    "metrics": {
+      "accuracy": NaN,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "efficiency": {
+      "avg_tokens_per_title": 0,
+      "avg_processing_time": 0,
+      "total_tokens": 0,
+      "total_time": 0,
+      "estimated_cost": 0.0
+    }
+  },
+  "contextual": {
+    "metrics": {
+      "accuracy": NaN,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "efficiency": {
+      "avg_tokens_per_title": 0,
+      "avg_processing_time": 0,
+      "total_tokens": 0,
+      "total_time": 0,
+      "estimated_cost": 0.0
+    }
+  },
+  "few_shot": {
+    "metrics": {
+      "accuracy": NaN,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "efficiency": {
+      "avg_tokens_per_title": 0,
+      "avg_processing_time": 0,
+      "total_tokens": 0,
+      "total_time": 0,
+      "estimated_cost": 0.0
+    }
+  }
+}

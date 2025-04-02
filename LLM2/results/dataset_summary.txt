@@ -1,0 +1,31 @@
+FakeNewsNet Dataset Summary
+==========================
+
+Total examples: 23196
+Training set: 16237 examples
+Test set: 3479 examples
+Validation set: 3480 examples
+
+Label Distribution:
+  Train - Real: 12209, Fake: 4028
+  Test  - Real: 2616, Fake: 863
+  Valid - Real: 2616, Fake: 864
+
+Source Distribution:
+  Train - GossipCop: 15498, PolitiFact: 739
+  Test  - GossipCop: 3320, PolitiFact: 159
+  Valid - GossipCop: 3322, PolitiFact: 158
+
+Title Length Statistics:
+  Mean: 11.16 words
+  Median: 11.00 words
+  Min: 1 words
+  Max: 53 words
+  95th Percentile: 18.00 words
+
+Tweet Count Statistics:
+  Mean: 88.96 tweets
+  Median: 37.00 tweets
+  Min: 0 tweets
+  Max: 29060 tweets
+  95th Percentile: 218.00 tweets
